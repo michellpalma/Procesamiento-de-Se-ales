@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 5c118bf4ec9511c438f8a4f318b0f4da
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - shyFrogClip: {fileID: 8300000, guid: b1ec30c9270a0374ca66527d1085403d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
